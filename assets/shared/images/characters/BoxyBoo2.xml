@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BoxyBoo2.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BoxyBox0000" x="0" y="0" width="1000" height="700"/>
+	<SubTexture name="BoxyBox0001" x="1000" y="0" width="1000" height="700"/>
+	<SubTexture name="BoxyBox0002" x="2000" y="0" width="1000" height="700"/>
+	<SubTexture name="BoxyBox0003" x="3000" y="0" width="1000" height="700"/>
+	<SubTexture name="BoxyBox0004" x="4000" y="0" width="1000" height="700"/>
+	<SubTexture name="BoxyBox0005" x="5000" y="0" width="1000" height="700"/>
+	<SubTexture name="BoxyBox0006" x="6000" y="0" width="1000" height="700"/>
+	<SubTexture name="BoxyBox0007" x="7000" y="0" width="1000" height="700"/>
+	<SubTexture name="BoxyBox0008" x="0" y="700" width="1000" height="700"/>
+	<SubTexture name="BoxyBox0009" x="1000" y="700" width="1000" height="700"/>
+	<SubTexture name="BoxyBox0010" x="2000" y="700" width="1000" height="700"/>
+	<SubTexture name="BoxyBox0011" x="3000" y="700" width="1000" height="700"/>
+	<SubTexture name="BoxyBox0012" x="4000" y="700" width="1000" height="700"/>
+	<SubTexture name="BoxyBox0013" x="5000" y="700" width="1000" height="700"/>
+	<SubTexture name="BoxyGoOut0000" x="6000" y="700" width="1000" height="700"/>
+	<SubTexture name="BoxyGoOut0001" x="7000" y="700" width="1000" height="700"/>
+	<SubTexture name="BoxyGoOut0002" x="0" y="1400" width="1000" height="700"/>
+	<SubTexture name="BoxyGoOut0003" x="1000" y="1400" width="1000" height="700"/>
+	<SubTexture name="BoxyGoOut0004" x="2000" y="1400" width="1000" height="700"/>
+	<SubTexture name="BoxyGoOut0005" x="3000" y="1400" width="1000" height="700"/>
+	<SubTexture name="BoxyGoOut0006" x="4000" y="1400" width="1000" height="700"/>
+	<SubTexture name="BoxyGoOut0007" x="5000" y="1400" width="1000" height="700"/>
+	<SubTexture name="BoxyGoOut0008" x="6000" y="1400" width="1000" height="700"/>
+	<SubTexture name="BoxyGoOut0009" x="7000" y="1400" width="1000" height="700"/>
+	<SubTexture name="BoxyGoOut0010" x="0" y="2100" width="1000" height="700"/>
+	<SubTexture name="BoxyGoOut0011" x="1000" y="2100" width="1000" height="700"/>
+	<SubTexture name="BoxyGoOut0012" x="2000" y="2100" width="1000" height="700"/>
+	<SubTexture name="BoxyGoOut0013" x="3000" y="2100" width="1000" height="700"/>
+	<SubTexture name="BoxyGoOut0014" x="4000" y="2100" width="1000" height="700"/>
+	<SubTexture name="BoxyGoOut0015" x="5000" y="2100" width="1000" height="700"/>
+	<SubTexture name="BoxyGoOut0016" x="6000" y="2100" width="1000" height="700"/>
+	<SubTexture name="BoxyGoOut0017" x="7000" y="2100" width="1000" height="700"/>
+	<SubTexture name="BoxyGoOut0018" x="0" y="2800" width="1000" height="700"/>
+	<SubTexture name="BoxyGoOut0019" x="1000" y="2800" width="1000" height="700"/>
+	<SubTexture name="BoxyGoOut0020" x="2000" y="2800" width="1000" height="700"/>
+	<SubTexture name="BoxyGoOut0021" x="3000" y="2800" width="1000" height="700"/>
+	<SubTexture name="BoxyGoOut0022" x="4000" y="2800" width="1000" height="700"/>
+	<SubTexture name="BoxyGoOut0023" x="5000" y="2800" width="1000" height="700"/>
+	<SubTexture name="BoxyGoOut0024" x="6000" y="2800" width="1000" height="700"/>
+</TextureAtlas>
